@@ -46,9 +46,9 @@ npm run dev / npm start
 
 # 部分截图
 
-<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/1.png" width="360" height="400"/>
 <img src="https://github.com/lvpangpang/vue-answering/blob/master/static/2.png" width="360" height="400"/>
 <img src="https://github.com/lvpangpang/vue-answering/blob/master/static/3.png" width="360" height="400"/>
+<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/4.png" width="360" height="400"/>
 
 
 
