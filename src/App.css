@@ -1,0 +1,101 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{font-family:Helvetica,HelveticaNeue,Arial,Verdana,Sans-serif;;margin:0;padding:0}html{font-size:1rem;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal}table{border-collapse:collapse;border-spacing:0}q:before,q:after{content:''}object,embed{vertical-align:top}hr,legend{display:none}img,abbr,acronym,fieldset{border:0}ul li{list-style-type:none}a,label{cursor:pointer}img{vertical-align:bottom;margin:0;padding:0}a{text-decoration:none;outline:0}h1,h2,h3,h4,h5,h6{font-weight: 400}.clearfix:after{content:".";visibility:hidden;display:block;height:.1px;font-size:.1em;line-height:0;clear:both}.clearfix{*zoom:1}input,textarea,select{outline:0;border:1px solid #ccc;border-radius: 0;}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#ccc}input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#ccc}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}button{cursor:pointer;color:#666}textarea{resize:none;outline:0;overflow:hidden;padding:5px}select{outline:0}img{max-width: 100%}*{-webkit-tap-highlight-color:rgba(255,255,255,0); -webkit-appearance: none;}body{max-width: 640px;margin: 0 auto;background-color: #f8f9fc;}img{outline:none;}
+html,
+body {
+    max-width : 640px;
+    margin: 0 auto;
+    height : 100%;
+    background : url(http://cangdu.org/happyfri/static/img/1-1.jpg) no-repeat center / cover;
+    color: #fff;
+}
+.com-next-btn {
+    display: block;
+    margin: 0 auto;
+    width: 8rem;
+    line-height: 2rem;
+    -webkit-text-stroke: 1px #ff7500;
+    -webkit-text-fill-color : transparent;
+    font-size: 1.8rem;
+    text-align: center;
+}
+.link-item {
+    color: #fff;
+    font-size: 2rem;
+}
+
+/* 首页开始 */
+.home-img {
+    display: block;
+    margin: 0 auto 2rem;
+    width: 20rem;
+    padding-top: 8rem;
+}
+/* 首页结束 */
+
+/* 题目页面开始 */
+.item-header {
+    position: relative;
+    float: right;
+    margin-right: 2rem;
+    height: 10rem;
+    width: 5rem;
+    background: url(images/1.png) no-repeat center / cover;
+    z-index: 10;
+}
+.item-index {
+    position: absolute;
+    left: 1.5rem;
+    bottom: 1.3rem;
+    color: #000;
+}
+.item-main {
+    width: 14rem;
+    margin: 0 auto 6rem;
+    padding-top: 13rem;
+    color: #fff;
+    font-size: 1.1rem;
+}
+.select-item {
+    display: block;
+    margin-top: 1rem;
+    color: #fff;
+    word-break: break-all;
+}
+.index {
+    display: inline-block;
+    margin-right: .3rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+}
+.active {
+    color: #ff7500;
+}
+.active .index {
+    border-color: #ff7500;
+
+}
+/* 题目页面结束 */
+
+/* 成绩页面开始 */
+.score-box {
+    position: relative;
+    width: 80%;
+    height: 20rem;
+    margin: 0 auto;
+    background : url(http://cangdu.org/happyfri/static/img/4-2.png) no-repeat center / cover;
+    text-align: center;
+    color: #000;
+}
+.score {
+    margin-bottom: .5rem;
+    padding-top: 11rem;
+    font-size: 4rem;
+    color: red;
+    -webkit-text-stroke: 3px #ff7500;
+    -webkit-text-fill-color : transparent;
+}
+/* 成绩页面结束 */
+
+
