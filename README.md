@@ -15,7 +15,7 @@ react-入门项目
 react + react-router + react redux + webpack + ES6/7 
 
 # 文件路径
-<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/react.png" width="360" height="500"/>
+<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/react.png" width="360" height="400"/>
 
 
 
@@ -41,14 +41,14 @@ npm run dev / npm start
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
-> 吕胖胖的博客 http://www.qdfuns.com/house/15098/note
+> 吕胖胖的博客 http://www.qdfuns.com/house/15098.html
 
 
 # 部分截图
 
-<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/1.png" width="360" height="500"/>
-<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/2.png" width="360" height="500"/>
-<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/3.png" width="360" height="500"/>
+<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/1.png" width="360" height="400"/>
+<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/2.png" width="360" height="400"/>
+<img src="https://github.com/lvpangpang/vue-answering/blob/master/static/3.png" width="360" height="400"/>
 
 
 
